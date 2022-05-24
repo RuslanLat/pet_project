@@ -4,6 +4,7 @@
 
 1. Анализ недвижимости на сайте [Авито](https://www.avito.ru/zelenodolsk/kvartiry/prodam-ASgBAgICAUSSA8YQ).
 2. Анализ товаров на сайте [Wildberries](https://www.wildberries.ru/catalog/sport/vidy-sporta/velosport/velosipedy).
+3. Избранные домашние задания с курсов обучения
 
 ## avito_apartments
 
@@ -19,3 +20,9 @@
 
 1. Сбор открытых данных
 2. Анализ данных
+
+## homework
+
+Избранные домашние задания с курсов обучения Аналитике данных и Машинного обучения
+
+1. Задача кластеризации потребителей леденцов
