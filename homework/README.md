@@ -2,9 +2,9 @@
 
 В этом репозитории избранные домашние задания с курсов обучения Аналитике данных и Машинного обучения:
 
-## 1. [Задача](https://github.com/RuslanLat/pet_project/blob/main/homework/Описание_задачи.doc) кластеризации потребителей леденцов
+## 1. Задача кластеризации потребителей леденцов
 
-Блокно с проектом [sweetmeats.ipynb](https://github.com/RuslanLat/pet_project/blob/main/homework/sweetmeats.ipynb)
+Блокно с проектом [sweetmeats.ipynb](https://github.com/RuslanLat/pet_project/blob/main/homework/%20sweetmeats.ipynb)
 
 1. Загрузка датасета
 2. Анализ данных
